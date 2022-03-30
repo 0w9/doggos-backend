@@ -8,7 +8,7 @@ async function editJson(target_trait, new_value, file_id) {
 
         try {
             const docData = doc.data();
-
+            console.log(docData.attributes);
             if(target_trait in await docData.attributes) {
 
                 const index = await docData.attributes.findIndex(element => element.trait_type === target_trait);
