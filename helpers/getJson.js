@@ -7,7 +7,7 @@ async function getJson(id) {
     if(!doc.exists) {
         return false;
     } else {
-        return doc._fieldsProto;
+        return doc.data();
     }
 }
 
