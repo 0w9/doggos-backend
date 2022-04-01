@@ -1,4 +1,4 @@
-const db = require('../helpers/initDB');
+const db = require('./initDB');
 
 async function saveJson(data) {
     const res = await db.collection('files').add(data);

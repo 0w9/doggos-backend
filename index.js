@@ -9,8 +9,6 @@ const app = express()
 
 app.use(express.json());
 app.use('/files/:id', queryFiles);
-app.use('/admin/upload', createFiles);
-app.use('/admin/edit', editFiles);
 
 app.listen( express_config.port, () => {
     console.log( `server started at http://localhost:${ express_config.port }` );
