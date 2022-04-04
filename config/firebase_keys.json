@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "doggosbackend",
+    "private_key_id": "9736b1f99df7c3c05bdd4b74e6849ee3d229eb14",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDTevoJj6tcI6Dr\nDXEwfFEK/bKe1FXpE2PAXVDhD5inRB2suazheVbQp2PQynDvTJFzscygloJGAY5o\nOYOlevcODcm2wUJ8S5l7BPA0aoVapnyjbb46mXqwuomiHsm6x1bD9oWhikwxpXTJ\nkrKgslV7BEoHXN4L9xUf70UpB/XCztQYZnTTvFJRE2Ql46CDljC2U0QFhjSdJ1Ul\nDsweLVckzhgSyRaiCaA5mqyuuNkgi5OgXq7X9Ea3P0HcOyuMuOklj85mmEEzvRDc\nLpKox/moEWyYhgHz/U2q/ujw/3dD/Xl+Sr2ooc9qa4fipdQc1fqnh3hUD8S2QKgZ\n5blGmPMxAgMBAAECggEAAk6iYvHaSpz9iWJerRiUG41JG35zkthLSmQNqOMyy+ET\nPJbK6XTisv2oOf4jHoc4DRXEuQC2NeD87pR6euSi4Aqt7k/lVeqhS/jWVofE5n8w\nBRfrf0fqVd8SQJMWPBLUezq3XvdG1sZ2Bg28NkLY80itNpQHYVbuHKiPeVRRdKgV\n4cEF/3ANPHJOICbefLbGB4VPhQPBTaLHoSC7WzVGRYoMiEuo7jLIVSxERbpQtCUB\nEFLix9YM+hK22YD76LrXQQWqlT1viXnV3Mlhb1VzqL8e8ozBeUeSCZbFOfp3zwwg\nQBOVJDC9pVdXx+OBZsN/QG/pm0eNeNxYXqCoXm/QCQKBgQDphRe2pKkCoBrAx4Xw\nIVSnTpCieunLB/2AA3oGJPJ9AL34cUgt+JYo01FBhTwg8DzV22TuvgsnZO3xBwoT\n9peIomOSABR9dU87DeIZHKjjIgad8NvbGUyQYPMHq3RVVWDPJBaGoisVIjlbHJ9u\niFPrsbpklY/zrHvAOQ6jzoKlOQKBgQDn1rz6KJZT4T3/W7vQIY9e1SG8lE0uoF4V\nVQLZApaagAS3jSDLJdyEhC4wHhtcTjUHFz/aRkejVYXXttycSgnG6bGCIeclY56L\nEFRjPvAnY8ElQUJ5jSZv+5FaG50mUAz+RLQ6yhJ0j4QeVIkSLesE9vUEIDCvzWt9\nVf8DopD1uQKBgQCLQKOwdaaXezQY66JSXP3nOzGCwrsyKJShxvD4QwYbRtsCEUOS\nrl+U/tbAtJvzpG8StF8PA2MRXd2KUsFOwEkC4Jtxz/xoCBF0TMYcZXvM3liFzMC+\neeqvWjDyzOp1jJFLVODd7ky0sJD1ZS8pscAhl/1nx8xs6dlt+lhhlF9R+QKBgQDK\nnm2JAIHpizjA/a5WR45i5kjW5JHUB0pSwHp9qPpwyyPUO56GjW99zXwEh7uH374O\nlW4z2SpxAKS6E9IZMcf7tXBy+ChpD/iXN01Zc7813cQHSFLNouQOCMJPC0U8H8hL\nTUZq/wJEJs3kKCOn5MO7Eg6vbWa/rvubjdYTmjew2QKBgQDHqhTbPdgd/lfSbb1b\nltacLasSa3fVqIaXjmInSXEsov+C8jn+nZgwefkKdwyWMT1uB4v8sh4DDdz0KXo5\nywLTKRzt10UkmkJ9K2Lt+T6OjYRqJ+sGnMHgC/9K8sIyEuERoliN+NDvVqLS9Zzp\nrOpAxddnEiBFcVWTlnkp0SWt/Q==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-wpqhs@doggosbackend.iam.gserviceaccount.com",
+    "client_id": "118251009396378086044",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wpqhs%40doggosbackend.iam.gserviceaccount.com"
+  }
+  
